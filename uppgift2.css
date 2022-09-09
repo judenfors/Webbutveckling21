@@ -31,4 +31,16 @@ a{
     
 }
 
+table, th, td, tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 30px;
+    
+}
 
+td :nth-child(2), td :nth-child(3) {
+    text-align: center;
+}
+td, th {
+    width: 500px;
+}

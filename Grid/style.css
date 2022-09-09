@@ -41,10 +41,6 @@ main{
     background-color: crimson;
 }
 
-section{
-    
-}
-
 aside{
     grid-area:aside;
 }
@@ -53,3 +49,4 @@ footer{
     grid-area: footer;
     background-color: cyan;
 }
+
