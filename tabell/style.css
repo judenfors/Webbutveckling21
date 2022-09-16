@@ -1,0 +1,32 @@
+table{
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 200px;
+    height: 200px;
+
+}
+
+.one{ 
+background-color: lightskyblue;
+
+}
+
+.two {
+
+    background-color: lime;
+}
+
+.three{ 
+    background-color: black;
+}
+
+.four{ 
+    background-color:red;
+}
+
+.five{ 
+    background-color: yellow;
+}
+
+
